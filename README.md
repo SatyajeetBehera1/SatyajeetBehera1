@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyajeetbehera1&label=Profile%20views&color=0e75b6&style=flat" alt="satyajeetbehera1" /> </p>
 
 
-- 🌱 I’m currently learning **Javascript,React**
+- 🌱 I’m currently learning **Docker**
 
 - 👨‍💻 All of my projects are available at [https://satyajeet-portfolio.vercel.app/](https://satyajeet-portfolio.vercel.app/)
 
